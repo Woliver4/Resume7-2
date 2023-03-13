@@ -1,0 +1,74 @@
+*{
+    margin: 4px; 
+}
+body{
+    border: 5px solid coral;
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+
+ul li {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.img{
+    box-align: center;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    
+
+}
+
+.menu { 
+ margin-top: 300px;
+ background-color: black; 
+ margin-right: 150px;
+ width: 120px;
+ height: 120px;
+ padding-top: 20px;
+ padding-left: 20px;
+ padding-right: 20px;
+ padding-bottom: 20px;
+ position: absolute;
+
+
+
+}
+
+.menu h1 {
+color: white;
+ text-align: center;
+}
+
+.border{
+    border: 40px;
+    border-color: blue;
+    
+
+}
+
+.header{
+    background-color: aqua;
+}
+#container{
+   display: flex; 
+}
+
+#education{
+    border: 1px solid  black;
+    padding: 10px;
+}
+
+#experience{
+    border: 1px solid  black;
+    padding: 10px;
+}
+
+#skills{
+    border: 1px solid  black;
+    padding: 10px;
+}
